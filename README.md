@@ -1,3 +1,3 @@
 # CSharpPortfolio
 
-> Start van het prtfolio
+> Start van het portfolio
